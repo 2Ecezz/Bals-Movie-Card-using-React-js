@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Red Swan",
+    "image": "1.jpg",
+    "genre": "Drama",
+    "rating": "8.3"
+  },
+  {
+    "id": 2,
+    "title": "The Auditors",
+    "image": "2.jpg",
+    "genre": "Action",
+    "rating": "8.7"
+  },
+  {
+    "id": 3,
+    "title": "The Whirlwind",
+    "image": "3.jpg",
+    "genre": "Drama",
+    "rating": "8.3"
+  },
+  {
+    "id": 4,
+    "title": "Meteor Garden 2018",
+    "image": "4.jpg",
+    "genre": "Drama",
+    "rating": "9.3"
+  },
+  {
+    "id": 5,
+    "title": "Destined With You",
+    "image": "5.jpg",
+    "genre": "Romance",
+    "rating": "6.9"
+  },
+  {
+    "id": 6,
+    "title": "The Uncanny Counter",
+    "image": "6.jpg",
+    "genre": "Drama",
+    "rating": "8.4"
+  },
+  {
+    "id": 7,
+    "title": "Hierarchy",
+    "image": "7.jpg",
+    "genre": "Romance",
+    "rating": "9.8"
+  },
+  {
+    "id": 8,
+    "title": "Business Proposal",
+    "image": "8.jpg",
+    "genre": "Romance",
+    "rating": "7.2"
+  },
+  {
+    "id": 9,
+    "title": "Sweet Home",
+    "image": "9.jpg",
+    "genre": "Horror",
+    "rating": "8.7"
+  },
+  {
+    "id": 10,
+    "title": "The Atypical Family",
+    "image": "10.jpg",
+    "genre": "Fantasy",
+    "rating": "7.5"
+  },
+  {
+    "id": 11,
+    "title": "See You in My 19th Life",
+    "image": "11.jpg",
+    "genre": "Romance",
+    "rating": "8.5"
+  },
+  {
+    "id": 12,
+    "title": "King the Land",
+    "image": "12.jpg",
+    "genre": "Romance",
+    "rating": "7.5"
+  },
+  {
+    "id": 13,
+    "title": "A Time Called You",
+    "image": "13.jpg",
+    "genre": "Romance",
+    "rating": "8.4"
+  },
+  {
+    "id": 14,
+    "title": "My Demon",
+    "image": "14.jpg",
+    "genre": " Romance",
+    "rating": "6.5"
+  },
+  {
+    "id": 15,
+    "title": "Welcome to Samdal-ri",
+    "image": "15.jpg",
+    "genre": " Romance",
+    "rating": "9.1"
+  },
+  {
+    "id": 16,
+    "title": "Alchemy of Souls",
+    "image": "16.jpg",
+    "genre": "Romance",
+    "rating": "9.4"
+  },
+  {
+    "id": 17,
+    "title": "Doona!",
+    "image": "17.jpg",
+    "genre": "Romance",
+    "rating": "4.0"
+  },
+  {
+    "id": 18,
+    "title": "Doctor Slump",
+    "image": "18.jpg",
+    "genre": "Romance",
+    "rating": "7.3"
+  },
+  {
+    "id": 19,
+    "title": "The King: Eternal Monarch",
+    "image": "19.jpg",
+    "genre": "Drama ",
+    "rating": "9.5"
+  },
+  {
+    "id": 20,
+    "title": "Strong Girl Nam-soon",
+    "image": "20.jpg",
+    "genre": "Drama",
+    "rating": "7.4"
+  }
+]
